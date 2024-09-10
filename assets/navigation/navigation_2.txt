@@ -1,0 +1,13 @@
+book
+bottle
+cabinet
+chair
+cup
+door
+keyboard
+laptop
+mouse
+table
+trashbin
+tvmonitor
+window

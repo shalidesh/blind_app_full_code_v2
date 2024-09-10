@@ -1,0 +1,53 @@
+7up chai 500
+7up lon 330
+aquafina chai 500
+coca chai 330
+coca chai 500
+coca lon 330
+dasani chai 500
+fanta chai 330
+fanta chai 500
+fanta lon 330
+lavie chai 500
+mirrinda chai 330
+mirrinda chai 500
+mirrinda lon 330
+pepsi chai 330
+pepsi chai 500
+pepsi lon 330
+sprite chai 330
+sprite chai 500
+sprite lon 330
+avocado
+Dragon Fruit
+Sapodilla
+jambu biji
+great hog plum
+kesemek
+kiwi fruit
+Lemon
+Mangosteen
+markisa
+salak,
+Bitter melon
+Brinjal
+Cabbage
+Calabash
+Capsicum
+Cauliflower
+Garlic
+Ginger
+Green Chili
+Lady finger
+Onion
+Potato
+Sponge Gourd
+Tomato
+cucumber
+Toothpaste-Closeup
+Toothpaste-Colgate
+Toothpaste-Dabur Red
+Toothpaste-Meswak
+Toothpaste-Oral-B
+Toothpaste-Pepsodent
+Toothpaste-Sensodyne
